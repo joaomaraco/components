@@ -1,20 +1,20 @@
 {
   "name": "components_webbase",
-  "version": "1.0.1",                     
+  "version": "1.0.2",
   "type": "module",
-  "source": "src/index.js",            
+  "source": "src/index.js",
   "main": "dist/index.js",
   "module": "dist/index.module.js",
   "unpkg": "dist/index.umd.js",
   "scripts": {
-    "build": "microbundle",           
-    "dev": "microbundle watch"        
+    "build": "microbundle",
+    "dev": "microbundle watch"
   },
   "devDependencies": {
     "microbundle": "^0.15.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/femakin01/CapitalizeFirstLetterofaString.git"
+    "url": "git+https://github.com/joaomaraco/components.git"
   }
 }
