@@ -1,0 +1,1 @@
+{"version":3,"file":"index.module.js","sources":["../src/index.js"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function index() {\r\n    return (\r\n        <div>Teste Componentes Base</div>\r\n    )\r\n}\r\n"],"names":["index","h"],"mappings":"cAEwB,SAAAA,IACpB,OACIC,EAAA,MAAA,KAAK,yBAEb"}
